@@ -33,11 +33,8 @@
 .card-img {
   border-radius: 0 !important;
 }
-.slick-next {
-  right: 0 !important;
-}
-.slick-prev {
-  left: 0 !important;
+.slick-arrow {
+  display: none !important;
 }
 .wrapper {
   width: 100%;
@@ -49,7 +46,7 @@
 }
 
 .slick-slide {
-  margin: 10px;
+  margin: 0;
 }
 .slick-slide img {
   width: 100%;

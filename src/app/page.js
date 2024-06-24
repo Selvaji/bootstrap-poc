@@ -8,7 +8,7 @@ import Slider from "react-slick";
 
 export default function Home() {
   const settings = {
-    dots: false,
+    dots: true,
     infinite: true,
     speed: 500,
     slidesToShow: 3.3,
